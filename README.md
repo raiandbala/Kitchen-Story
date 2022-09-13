@@ -2,27 +2,6 @@
 
 ## Project Details
 This project aims to design and develop an E-commerce website that lets people shop basic food items using Angular and Spring boot. It enables users to search and buy the available products. It was developed as a project of Phase-4 for the Full Stack Java Developer course.
- 
-## Product Backlog:
-1.	Create database and tables.
-2.	Initialize a Spring Boot project for the Back-End side.
-3.	Create REST APIs with spring Data JPA Repositories 
-4.	Create a new Angular project for the Front-End side.
-5.	Create login and register pages.
-6.	Show all products to the home page.
-7.	Create a product details component.
-8.	Search a product by a category.
-9.	Search a product by a keyword.
-10.	Add products to the cart.
-11.	Show user’s cart.
-12.	Remove a product from the cart.
-13.	Update user account
-14.	Create the admin view 
-15.	Delete a product for the admin
-16.	Add a new product for the admin
-17.	Add bootstrap and font awesome to the components. 
-18.	Debug and test the project.
-
 
 ## Technologies and tools Used
 1.	Angular: used in the front-end side to build modern single-page applications
@@ -31,12 +10,6 @@ This project aims to design and develop an E-commerce website that lets people s
 4.	Bootstrap: to use some CSS and JavaScript designs.
 5.	Maven: to manage the project.
 6.	Visual Studio Code: to write and run the Angular code.
-7.	IntelliJ: to write and run the Spring Boot code.
-8.	phpMyAdmin: to administrate and manage the database manually.
-
-## Flowcharts of The Application
-Flow chart is for submit number 1 (some few changes were not added here)
-![image](https://user-images.githubusercontent.com/64940728/125710594-6d31612d-85ff-4127-bd70-d601673d6e10.png)
 
 ## Core concepts used in the project. 
 1.	Object-Oriented: used to create and model objects for users and their credentials.
